@@ -1,0 +1,2 @@
+# Restart-Privacy-Policy
+Restartのプライバシーポリシー
